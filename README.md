@@ -137,30 +137,3 @@ AI-Video-Assistant/
                        ▼
                  Meeting Chat
 ```
-
----
-
-## 📦 Dependencies
-
-Major dependencies include:
-
-```text
-streamlit
-openai-whisper
-torch
-torchaudio
-langchain
-langchain-mistralai
-chromadb
-sentence-transformers
-yt-dlp
-pydub
-requests
-python-dotenv
-reportlab
-ffmpeg-python
-```
-
-See `Requirements.txt` for the complete dependency list.
-
----
