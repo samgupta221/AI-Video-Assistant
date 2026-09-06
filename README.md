@@ -2,7 +2,7 @@
 
 > **Transcribe · Summarise · Extract Insights · Chat with Your Meetings**
 
-AI Video Assistant is an AI-powered meeting/video analysis application built with **Python and Streamlit**. It can take a YouTube video or local audio/video file, convert it into text, generate an intelligent summary, identify action items and decisions, and let you **ask questions about the meeting using RAG (Retrieval-Augmented Generation)**.
+AI Video Assistant is an AI-powered video analysis application built with **Python and Streamlit**. It can take a YouTube video or local audio/video file, convert it into text, generate an intelligent summary, identify action items and decisions, and let you **ask questions about the meeting using RAG (Retrieval-Augmented Generation)**.
 
 ---
 
