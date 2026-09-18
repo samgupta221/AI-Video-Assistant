@@ -669,45 +669,7 @@ Potential improvements include:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-
-### Fork the repository
-
-```bash
-git fork
-```
-
-### Create a branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-### Commit your changes
-
-```bash
-git commit -m "Add your feature"
-```
-
-### Push the branch
-
-```bash
-git push origin feature/your-feature
-```
-
-Then open a Pull Request.
-
----
-
-## 📄 License
-
-This project is available for educational and development purposes.
-
-Add an appropriate open-source license such as **MIT** if you intend to make the repository publicly reusable.
-
----
 
 **AI Video Assistant — turn long meetings into searchable, actionable knowledge.**
 
