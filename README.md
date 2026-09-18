@@ -63,34 +63,6 @@ AI Video Assistant is an AI-powered video analysis application built with **Pyth
 * **yt-dlp** — YouTube audio extraction
 * **Pydub** — Audio conversion and chunking
 * **FFmpeg** — Audio/video processing
-
----
-
-## 🏗️ Project Architecture
-
-```text
-AI-Video-Assistant/
-│
-├── app.py                         # Streamlit application
-├── main.py                        # CLI pipeline
-├── test.py                        # Testing / pipeline example
-├── Requirements.txt               # Python dependencies
-│
-├── core/
-│   ├── transcriber.py             # Whisper & Sarvam transcription
-│   ├── summarizer.py              # Title & summary generation
-│   ├── extractor.py               # Action items, decisions, questions
-│   ├── rag_engine.py              # RAG question-answering
-│   └── vector_store.py            # Chroma vector database
-│
-├── utils/
-│   └── audio_processor.py         # Download, convert & chunk audio
-│
-├── downloads/                     # Generated/downloaded audio
-├── vector_db/                     # Chroma vector database
-└── .env                           # API credentials
-```
-
 ---
 
 ## 🔄 How It Works
