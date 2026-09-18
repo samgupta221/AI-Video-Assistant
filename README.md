@@ -709,28 +709,5 @@ Add an appropriate open-source license such as **MIT** if you intend to make the
 
 ---
 
-## 👨‍💻 Author
-
-**Samridhi Gupta**
-
-Built with:
-
-```text
-Python
-Streamlit
-Whisper
-Sarvam AI
-Mistral AI
-LangChain
-ChromaDB
-HuggingFace
-```
-
----
-
-## ⭐ If You Like This Project
-
-Give the repository a ⭐ on GitHub and feel free to contribute!
-
 **AI Video Assistant — turn long meetings into searchable, actionable knowledge.**
 
