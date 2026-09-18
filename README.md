@@ -668,8 +668,3 @@ Potential improvements include:
 * 🗂️ Meeting/project organization
 
 ---
-
-
-
-**AI Video Assistant — turn long meetings into searchable, actionable knowledge.**
-
